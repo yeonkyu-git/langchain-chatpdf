@@ -1,6 +1,6 @@
 langchain==0.0.349
 langchain-core==0.0.13
-langchain-community=0.0.1
+langchain-community==0.0.1
 langchain-google-genai
 langchain-chroma
 pypdf
