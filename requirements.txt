@@ -1,7 +1,7 @@
 langchain
 langchain-community
 langchain-google-genai
-langchain_chroma
+langchain-chroma
 langchain-core
 pypdf
 chromadb
