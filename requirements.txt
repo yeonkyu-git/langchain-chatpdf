@@ -1,8 +1,13 @@
-langchain
+# LangChain 핵심 패키지를 최신 버전으로 명시
+langchain>=0.2.0
+langchain-core>=0.2.0
+
+# 나머지 LangChain 관련 커뮤니티/통합 패키지
 langchain-community
 langchain-google-genai
 langchain-chroma
-langchain-core
+
+# 기타 필요한 패키지
 pypdf
 chromadb
 tiktoken
