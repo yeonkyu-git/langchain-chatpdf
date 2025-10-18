@@ -34,7 +34,7 @@ def pdf_to_document(uploaded_file):
 
 
 if uploaded_file is not None:
-  pages = pdf_to_document(uploaded_file)
+  pages = pdf_to_document(uploaded_file, type="pdf")
 
   ## 2. Split Text
   text_splitter = RecursiveCharacterTextSplitter(
